@@ -1,0 +1,10 @@
+<svg width="30" height="30" viewBox="0 0 30 30" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="Swap horizontal circle" clip-path="url(#clip0_57_444)">
+<path id="Vector" d="M27.5 15C27.5 8.1 21.9 2.5 15 2.5C8.1 2.5 2.5 8.1 2.5 15C2.5 21.9 8.1 27.5 15 27.5C21.9 27.5 27.5 21.9 27.5 15ZM18.75 8.125L23.125 12.5L18.75 16.875V13.75H13.75V11.25H18.75V8.125ZM11.25 21.875L6.875 17.5L11.25 13.125V16.25H16.25V18.75H11.25V21.875Z" fill="#A9A7A9"/>
+</g>
+<defs>
+<clipPath id="clip0_57_444">
+<rect width="30" height="30" fill="white"/>
+</clipPath>
+</defs>
+</svg>
